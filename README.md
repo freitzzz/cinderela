@@ -8,6 +8,6 @@ Every file is uploaded remotely using [github-upsert cli tool](https://github.co
 npx i @web-pacotes/github-upsert
 ```
 
-<p align="right">
+<p align="center">
     <img alt="cinderela wavy logo" src="https://raw.githubusercontent.com/freitzzz/cinderela/master/lagosta/cinderela.webp">
 </p
